@@ -1,6 +1,7 @@
 body{
-       background-image: linear-gradient(lemonchiffon, #dd371a);
+       background-color: lightgoldenrodyellow;
        margin: 5px;
+       font-family: sans-serif;
 }
 
 * {

@@ -49,3 +49,7 @@ a :hover {
 a {
        color: black;
 }
+
+.titlereceita h1{
+        align-items: center;
+}

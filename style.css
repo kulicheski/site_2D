@@ -36,7 +36,16 @@ body{
  .imagem_pimenta{
        width: 30%; }
        
- {
-              list-style-type: none;
-              display: block;
+ li {
+   list-style-type: none;
+   display: block;
+}
+
+a :hover {
+       cursor: pointer;
+       color: red;
+}
+
+a {
+       color: black;
 }
